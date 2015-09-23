@@ -1,4 +1,4 @@
-package com.darion.yaphet.start;
+package org.darion.yaphet.start;
 
 /**
  * Created by MLS on 15/9/22.

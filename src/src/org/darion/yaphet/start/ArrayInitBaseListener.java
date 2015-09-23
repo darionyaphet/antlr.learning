@@ -1,4 +1,4 @@
-package com.darion.yaphet.start;// Generated from ArrayInit.g4 by ANTLR 4.5
+package org.darion.yaphet.start;// Generated from ArrayInit.g4 by ANTLR 4.5
 
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
