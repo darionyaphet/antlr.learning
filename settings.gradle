@@ -16,4 +16,9 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'ANTLRExamples'
+rootProject.name = 'antlr.learning'
+include 'actions'
+include 'api'
+include 'SQL'
+include 'starter'
+
