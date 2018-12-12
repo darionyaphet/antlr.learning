@@ -21,4 +21,7 @@ include 'actions'
 include 'api'
 include 'SQL'
 include 'starter'
+include 'debug'
+include 'errors'
+include 'errors'
 
